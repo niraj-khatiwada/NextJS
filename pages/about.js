@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>NEXT JS</title>
+        <title>About</title>
       </Head>
-      <div>Hello world</div>
+      <div>About page</div>
     </>
   )
 }
